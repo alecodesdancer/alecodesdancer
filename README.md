@@ -5,14 +5,15 @@
  I'm a JavaScript programmer. I love the *Frontend* but I also get into the *Backend* (The best of two worlds 🤩). 
 
 ⭐ When I learn something new I like to create apps and examples and share them here so that my future self is not so lost. If my examples help you, welcome 🤗.
+🔭 I’m currently working on a mental health app 💕.
 
 #### About me:
 ```javascript
 	const Ale = {
 		pronouns: ['she', 'her'],
-		languages: [Javascript, HTML, CSS, Typescript],
+		languages: [Javascript, JSX, HTML, CSS, Typescript],
 		specialty: ['Frontend', 'Backend'],
-		frameworks_technologies: ['Angular', 'NodeJS', 'React', 'Bootstrap', 'Tailwind'],
+		frameworks_technologies: ['React Native','Python','Angular', 'NodeJS', 'React', 'Bootstrap', 'Tailwind'],
 		fav_food: [🌮, 🍟, 🍫]
 	};
 ```
